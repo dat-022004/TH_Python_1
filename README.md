@@ -6,7 +6,7 @@ Dã có thể gửi nội dung đến gmail khác và có thể đọc đươc n
 
 #  minh trứng trên gmail  
 Đã gửi được gmail đến gmail khác:  
-![image](https://github.com/user-attachments/assets/5b8c8a11-f918-4939-bff4-26a6bd45e98b)  
+![image](https://github.com/user-attachments/assets/8bd109bd-2da4-4892-841b-0df203ecf8c7)
 
 Đã có thể nhận được gmail người khác gửi đến:  
 ![image](https://github.com/user-attachments/assets/b4f235f3-5dda-4af5-a957-db3f40f76895)
