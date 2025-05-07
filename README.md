@@ -3,6 +3,7 @@
 #  Minh chứng từ VScode:  
 Dã có thể gửi nội dung đến gmail khác và có thể đọc đươc nội dung người khác gửi đến qua VScode
 ![image](https://github.com/user-attachments/assets/daccb001-7545-43a5-b53e-48041a43a505)  
+![image](https://github.com/user-attachments/assets/7ff001fc-397f-4db4-8640-52376871b918)
 
 #  minh trứng trên gmail  
 Đã gửi được gmail đến gmail khác:  
