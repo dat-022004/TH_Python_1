@@ -9,5 +9,6 @@ Dã có thể gửi nội dung đến gmail khác và có thể đọc đươc n
 ![image](https://github.com/user-attachments/assets/8bd109bd-2da4-4892-841b-0df203ecf8c7)
 
 Đã có thể nhận được gmail người khác gửi đến:  
-![image](https://github.com/user-attachments/assets/b4f235f3-5dda-4af5-a957-db3f40f76895)
+![image](https://github.com/user-attachments/assets/7f4c4ea0-fda7-4cfb-b102-4ed24a61098a)
+
 
