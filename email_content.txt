@@ -1,0 +1,7 @@
+Chào bạn,
+
+Đây là email tự động được gửi từ Python trong VSCode.
+Cảm ơn bạn đã đọc!
+
+Trân trọng,
+[Đạt]
